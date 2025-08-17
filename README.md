@@ -21,7 +21,9 @@ on Prolific. More specifically, we have the following notebooks in the `notebook
   snippets. Authors provided feedback, which was aggregated and analyzed to validate the project's contribution before
   launching the main study.
 
-> **Note**: As expected, the data that was used within these notebooks is stored within the `data` directory.
+> **Notes**: 
+> * As expected, the data that was used within these notebooks is stored within the `data` directory.
+> * The candidate code snippets that were used in the pilot study are stored in the `data/code_snippets`.
 
 ---
 
