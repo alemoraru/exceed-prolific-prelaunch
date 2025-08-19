@@ -67,8 +67,8 @@ on Prolific. More specifically, we have the following notebooks in the `notebook
 
 This project was developed as part of the EXCEED MSc Thesis project at Technische Universiteit Delft. As such,
 contributions of any sort will not be accepted. This repository is provided for replication and educational purposes
-ONLY. Since it was used to orchestrate the deployment of our study on Prolific, it is NOT intended for further
-development or contributions.
+ONLY. Since this was used to validate system settings of our framework as part of the validation steps before 
+launching our main study on Prolific, it is NOT intended for further development or contributions.
 
 ---
 
